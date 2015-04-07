@@ -56,7 +56,7 @@
       "superagent": "lib/client.js"
     }
   },
-  "main": "./lib/node/index.js",
+  "main": "./lib/client.js",
   "engines": {
     "node": ">= 0.8"
   }
